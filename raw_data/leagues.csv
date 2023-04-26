@@ -1,0 +1,11 @@
+league_id,league_name,league_type,league_logo,country_name,country_code,country_flag
+61,Ligue 1,League,https://media-2.api-sports.io/football/leagues/61.png,France,FR,https://media-2.api-sports.io/flags/fr.svg
+144,Jupiler Pro League,League,https://media-3.api-sports.io/football/leagues/144.png,Belgium,BE,https://media-3.api-sports.io/flags/be.svg
+39,Premier League,League,https://media-3.api-sports.io/football/leagues/39.png,England,GB,https://media-2.api-sports.io/flags/gb.svg
+78,Bundesliga,League,https://media-3.api-sports.io/football/leagues/78.png,Germany,DE,https://media-1.api-sports.io/flags/de.svg
+135,Serie A,League,https://media-1.api-sports.io/football/leagues/135.png,Italy,IT,https://media-1.api-sports.io/flags/it.svg
+88,Eredivisie,League,https://media-2.api-sports.io/football/leagues/88.png,Netherlands,NL,https://media-3.api-sports.io/flags/nl.svg
+94,Primeira Liga,League,https://media-2.api-sports.io/football/leagues/94.png,Portugal,PT,https://media-1.api-sports.io/flags/pt.svg
+140,La Liga,League,https://media-2.api-sports.io/football/leagues/140.png,Spain,ES,https://media-2.api-sports.io/flags/es.svg
+333,Premier League,League,https://media-2.api-sports.io/football/leagues/333.png,Ukraine,UA,https://media-2.api-sports.io/flags/ua.svg
+203,Süper Lig,League,https://media-3.api-sports.io/football/leagues/203.png,Turkey,TR,https://media-2.api-sports.io/flags/tr.svg
