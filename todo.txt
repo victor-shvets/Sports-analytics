@@ -23,6 +23,7 @@ Analytics:
 Prediction:
 
     - analyze the reason for false positive/negative
+    - predict goals for the current season based on the data for the current season and compare results
     
 Question:
 
