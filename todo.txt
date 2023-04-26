@@ -1,0 +1,29 @@
+Presentation:
+
+    General information:
+    - number of leagues
+    - number of seasons
+    - number of countries
+    - number of players
+    - number of nationalities
+
+    dataflow:
+    - rapid api
+    - api football
+    - python
+    - csv file
+    
+   
+
+Analytics:
+
+    - check if all players have been loaded for all seasons, no empty teams for all seasons
+    - if use price convert it to the same proportion considering inflation and price growth
+
+Prediction:
+
+    - analyze the reason for false positive/negative
+    
+Question:
+
+    - if birth place is missing I can take it as a capital or just country
