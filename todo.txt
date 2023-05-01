@@ -7,18 +7,26 @@ Presentation:
     - number of players
     - number of nationalities
 
-    dataflow:
+    dataflow slide:
     - rapid api
     - api football
     - python
     - csv file
     
-   
+    why important:
+    - predict number of goals for individual players
+    - predict total goals for the team for the season
+    - predict the champion and standing of all teams
+    
+   resources used:
+   https://www.api-football.com/documentation-v3
+   transfermarkt.com
 
 Analytics:
 
     - check if all players have been loaded for all seasons, no empty teams for all seasons
     - if use price convert it to the same proportion considering inflation and price growth
+    - find funny correlation but not causation, like 1:1 correlation of number of yellow cards and year of birth
 
 Prediction:
 
@@ -28,3 +36,4 @@ Prediction:
 Question:
 
     - if birth place is missing I can take it as a capital or just country
+    
