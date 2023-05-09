@@ -13,6 +13,9 @@ Presentation:
     - python
     - csv file
     
+    data cleaning process:
+    - diagram how I cleaned the data and result at each step
+    
     why important:
     - predict number of goals for individual players
     - predict total goals for the team for the season
@@ -21,6 +24,10 @@ Presentation:
    resources used:
    https://www.api-football.com/documentation-v3
    transfermarkt.com
+   
+Cleaning data:
+
+    - fillna for games_rating
 
 Analytics:
 
@@ -32,6 +39,9 @@ Prediction:
 
     - analyze the reason for false positive/negative
     - predict goals for the current season based on the data for the current season and compare results
+    - try to add ratings with much less number of rows
+    - add total values for teams to players
+    - add total number of legioners in the team
     
 Question:
 
