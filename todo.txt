@@ -20,6 +20,8 @@ Presentation:
     - predict number of goals for individual players
     - predict total goals for the team for the season
     - predict the champion and standing of all teams
+    - predict number of goals if a player is transferred in a certain league or team
+    - predict the same player but in a copule of years, so he gets older
     
    resources used:
    https://www.api-football.com/documentation-v3
