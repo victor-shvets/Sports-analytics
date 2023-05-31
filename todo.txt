@@ -22,14 +22,16 @@ Presentation:
     - predict the champion and standing of all teams
     - predict number of goals if a player is transferred in a certain league or team
     - predict the same player but in a copule of years, so he gets older
+    - player player played not many games but scored descent amount of goals, how much goals he will score if he plays all games?
     
    resources used:
-   https://www.api-football.com/documentation-v3
-   transfermarkt.com
+       https://www.api-football.com/documentation-v3
+       transfermarkt.com
    
 Cleaning data:
 
-    - fillna for games_rating
+    - description of the fields
+
 
 Analytics:
 
@@ -43,9 +45,10 @@ Prediction:
     - predict goals for the current season based on the data for the current season and compare results
     - try to add ratings with much less number of rows
     - add total values for teams to players
+    - add number of nationalities in a team
     - add total number of legioners in the team
+    - feature engineer pass_acuracy from percentage to number
     
 Question:
 
-    - if birth place is missing I can take it as a capital or just country
     
