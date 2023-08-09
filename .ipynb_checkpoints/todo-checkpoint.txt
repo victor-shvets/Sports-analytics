@@ -48,6 +48,7 @@ Prediction:
     - add number of nationalities in a team
     - add total number of legioners in the team
     - feature engineer pass_acuracy from percentage to number
+    - take any player from new unseen league and try to predict the goals
     
 Question:
 

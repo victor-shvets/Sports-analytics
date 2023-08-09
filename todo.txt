@@ -1,20 +1,10 @@
 Presentation:
 
     General information:
-    - number of leagues
-    - number of seasons
-    - number of countries
-    - number of players
-    - number of nationalities
 
     dataflow slide:
-    - rapid api
-    - api football
-    - python
-    - csv file
     
     data cleaning process:
-    - diagram how I cleaned the data and result at each step
     
     why important:
     - predict number of goals for individual players
@@ -32,12 +22,10 @@ Cleaning data:
 
     - description of the fields
 
-
 Analytics:
 
-    - check if all players have been loaded for all seasons, no empty teams for all seasons
-    - if use price convert it to the same proportion considering inflation and price growth
     - find funny correlation but not causation, like 1:1 correlation of number of yellow cards and year of birth
+
 
 Prediction:
 
@@ -47,8 +35,12 @@ Prediction:
     - add total values for teams to players
     - add number of nationalities in a team
     - add total number of legioners in the team
-    - feature engineer pass_acuracy from percentage to number
+    - take any player from new unseen league and try to predict the goals
     
 Question:
 
-    
+    - can I use Kbest and PCA at the same time in gridsearch cv
+    - grid search with pca and one hot encoding sparse matrix
+    - I predict integers only, should I round the result or can I make model to predict int only
+    - grive search cv, kbest and one hot encoding. each fold doesn't have all number of features but try all of them, failing
+    - created model and performed cross validation on train, get the score on test?
