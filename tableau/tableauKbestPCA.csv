@@ -1,0 +1,14 @@
+,kb_score,kb_feature,pca_feature,pca_score,n,feature
+0,46199.93468682223,Shots on target,Shots on target,0.2476510079314952,2,Shots on target
+1,21378.069463608248,Substitutes out,,,1,Substitutes out
+2,14404.829432060458,Games minutes,,,1,Games minutes
+3,12475.422073771257,Key passes,Key passes,0.28469573591458464,2,Key passes
+4,12176.081915785935,Goals assists,Goals assists,0.2461061136751722,2,Goals assists
+5,9632.630277236283,Fouls drawn,Fouls drawn,0.2996815709755854,2,Fouls drawn
+6,9566.587506556838,Dribbles success,Dribbles success,0.27084181472932767,2,Dribbles success
+7,7375.945259339726,Games position,,,1,Games position
+8,6639.179301226673,Duels won,Duels won,0.30788119251586915,2,Duels won
+9,6257.788505003646,Fouls committed,Fouls committed,0.30138156531081733,2,Fouls committed
+10,,,Passes total,0.2841953391136067,1,Passes total
+11,,,Tackles interceptions,0.250661721402022,1,Tackles interceptions
+12,,,Tackles total,0.24926472696080682,1,Tackles total

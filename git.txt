@@ -5,3 +5,8 @@ git add --all
 git commit -m -a
 
 git push origin main
+
+
+git fetch
+
+git pull
