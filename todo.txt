@@ -2,4 +2,3 @@
     compare number of cases and total value of diff
 - run model notebook without errors
 - model file, grid search the best parameters only to run faster
-- create file from conda env containing all libraries
