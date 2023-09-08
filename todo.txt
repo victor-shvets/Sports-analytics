@@ -1,4 +1,0 @@
-- error analytics - underestimate or overestimate, is diff between predicted and real is negative or positive
-    compare number of cases and total value of diff
-- run model notebook without errors
-- model file, grid search the best parameters only to run faster
